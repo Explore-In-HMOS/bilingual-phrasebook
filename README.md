@@ -1,3 +1,5 @@
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
+
 # Bilingual Phrasebook
 
 A simple bilingual phrasebook app for HarmonyOS Next written in ArkTS.
