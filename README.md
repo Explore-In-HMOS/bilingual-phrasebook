@@ -2,7 +2,7 @@
 
 # Bilingual Phrasebook
 
-A simple bilingual phrasebook app for HarmonyOS Next written in ArkTS.
+A simple bilingual phrasebook app for HarmonyOS written in ArkTS.
 
 BilingualPhrasebook is a multilingual app designed to help users quickly access common phrases in both **Arabic** and **English**.
 Each phrase card displays both languages simultaneously — the toggle button switches which language appears as primary (larger, top) and which appears as secondary (smaller, below).
